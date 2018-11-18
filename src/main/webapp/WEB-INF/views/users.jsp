@@ -22,8 +22,8 @@
 				<td>${user.firstName}</td>
 				<td>${user.lastName}</td>
 				<td>${user.email}</td>
-				<td><a href="/JEE_Exam_6/user/${user.id}">Edit</a></td>
-				<td><a href="/JEE_Exam_6/deleteUser/${user.id}">Delete</a></td>
+				<td><a href="/Warsztaty__6/user/${user.id}">Edit</a></td>
+				<td><a href="/Warsztaty__6/deleteUser/${user.id}">Delete</a></td>
 			</tr>
 		</c:forEach>
 	</table>
